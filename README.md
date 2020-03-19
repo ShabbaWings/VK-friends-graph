@@ -7,4 +7,4 @@
 Обработка этих данных и получение графа в ноутбуке Graph.
 
 Полученный граф:
-![alt text](figures/VkGraph.png)
+![alt text](VkGraph.png)
