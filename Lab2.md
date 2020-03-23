@@ -11,7 +11,7 @@ International Conference on, 2015, pp. 327-333: IEEE.
 
 Полный код всё так же в файле Graph.ipynb.
 
-Три получившихся отображения графов:
+Три новых получившихся отображения графов (помимо того, который был в предыдущей лабораторной):
 ![alt text](Graph1.png)
 ![alt text](Graph2.png)
 ![alt text](Graph3.png)
