@@ -7,3 +7,6 @@
 Полный код всё так же в файле Graph.ipynb.
 
 Три получившихся отображения графов:
+![alt text](Graph1.png)
+![alt text](Graph2.png)
+![alt text](Graph3.png)
